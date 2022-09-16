@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MailingsystemoneConfig(AppConfig):
+class MailingsystemConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "MailingSystemOne"
+    name = "mailingsystem"
