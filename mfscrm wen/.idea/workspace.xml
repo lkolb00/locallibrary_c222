@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27d57253-cecd-4b1a-aab3-66e2188d9b16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/password_reset_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/pdf_output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/product_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/product_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/product_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/product_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/service_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/service_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm copy/crm/templates/crm/summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/templates/crm/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/templates/crm/customer_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/templates/crm/customer_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/templates/crm/customer_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/templates/crm/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/templates/crm/service_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfscrm/crm/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity-3.00---python-basics-lkolb00/Activity 3.00.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary copy 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary copy 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/.idea/locallibrary.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/migrations/0002_auto_20220918_0521.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/migrations/0003_auto_20220918_0616.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/templates/base_generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/templates/catalog/book_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/templates/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/catalog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/locallibrary/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/locallibrary/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/locallibrary/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/locallibrary/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/locallibrary/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/.idea/locallibrary.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/migrations/0002_auto_20220918_0521.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/migrations/0003_auto_20220918_0616.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/migrations/0004_auto_20220919_2342.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/templates/base_generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/templates/catalog/author_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/templates/catalog/author_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/templates/catalog/book_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/templates/catalog/book_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/templates/catalog/bookinstance_list_borrowed_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/catalog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/fall 2022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/fall 2022.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/locallibrary/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/locallibrary/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/locallibrary/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/locallibrary/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/locallibrary/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/templates/registration/logged_out.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/templates/registration/password_reset_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/templates/registration/password_reset_confirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/templates/registration/password_reset_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/templates/registration/password_reset_email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c2/templates/registration/password_reset_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/migrations/0002_auto_20220918_0521.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/migrations/0003_auto_20220918_0616.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/migrations/0004_auto_20220919_2342.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/static/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/templates/base_generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/templates/catalog/author_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/templates/catalog/author_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/templates/catalog/book_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/templates/catalog/book_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/templates/catalog/bookinstance_list_borrowed_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/catalog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/fall 2022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/fall 2022.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/locallibrary/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/locallibrary/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/locallibrary/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/locallibrary/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/locallibrary/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/requirement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/templates/registration/logged_out.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/templates/registration/password_reset_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/templates/registration/password_reset_confirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/templates/registration/password_reset_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/templates/registration/password_reset_email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locallibrary_c22/templates/registration/password_reset_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FyMJMaNpl3MTFgqbG9ur75ULM8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crm/templates" />
+      <recent name="$PROJECT_DIR$/crm" />
+      <recent name="$PROJECT_DIR$/crm/migrations" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mfscrm" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mfscrm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27d57253-cecd-4b1a-aab3-66e2188d9b16" name="Changes" comment="" />
+      <created>1665459798400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665459798400</updated>
+      <workItem from="1665459804639" duration="11549000" />
+      <workItem from="1665558505251" duration="1544000" />
+      <workItem from="1665560110404" duration="1305000" />
+      <workItem from="1665803936684" duration="3879000" />
+      <workItem from="1665809570247" duration="2840000" />
+      <workItem from="1665898016168" duration="730000" />
+      <workItem from="1665903864522" duration="1651000" />
+      <workItem from="1665910238227" duration="4490000" />
+      <workItem from="1665915475149" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
